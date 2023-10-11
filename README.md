@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SmartCloth](https://smartcloth.org), a device to facilitate self-management of diet in diabetic patients.
 - 🤔 I'm looking for help developing a barcode reader (not QR codes) with an ESP32-CAM and doing all the decoding on the device.
 - 😄 Pronouns: she/her
-- 📫 How to reach me: [email](i62caroi@uco.es) or [LinkedIn](https://www.linkedin.com/in/irene-casares)
+- 📫 How to reach me: email (i62caroi@uco.es) or [LinkedIn](https://www.linkedin.com/in/irene-casares)
 
 <!--
 **i62caroi/i62caroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
